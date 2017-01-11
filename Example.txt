@@ -1,3 +1,9 @@
 10/1/17
 Worked on Xiaomi app and performed defect retesting.
 Worked on plm issues.
+
+11/1/17
+Worked on Xiaomi app and raised 1 issue
+Raised one Gionee Issue
+
+
