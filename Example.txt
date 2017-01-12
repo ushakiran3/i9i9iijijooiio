@@ -5,5 +5,7 @@ Worked on plm issues.
 11/1/17
 Worked on Xiaomi app and raised 1 issue
 Raised one Gionee Issue
+Resolved PLM Issues
+
 
 
