@@ -1,0 +1,15 @@
+
+11/1/17
+- Worked on xiaomi app and closed plm issues
+Xiaomi app:
+Gionee Issue: https://peel-jira.atlassian.net/browse/PAR-7941 -p3
+Raised Issues:
+https://peel-jira.atlassian.net/browse/PAR-7940 - p1,
+Resolved PLM Issues:
+P170103-04660  
+P170104-04856 
+P170104-04716  
+P170104-04926 (Resolve by design).
+P161205-02268 
+P161123-00881 
+P161230-02791
